@@ -13,7 +13,7 @@ stop all containers
 1. run pgAdmin4 through http://127.0.0.1/pgadmin4
 2. registser instances to pgAdmin4
 
-![alt text](https://github.com/minjuns/DistributedRuntimeVerication/blob/main/docs/drv_fig1.png?raw=true)
+![alt text](https://raw.githubusercontent.com/minjuns/DistributedRuntimeVerification/main/docs/drv_fig1.png)
 
 localhost:5432
 
