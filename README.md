@@ -1,9 +1,12 @@
 # Database setup
 Install pgadmin4: https://www.pgadmin.org/download/pgadmin-4-apt/
 
-# Creating docker image
+# start.sh
+Creating docker image
+Run 4 instances of databse
 
-# Run 4 instances of databse
+# stop.sh
+stop all containers
 
 # Confirm accessible from pgAdmin4
 registser instances
