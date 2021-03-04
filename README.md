@@ -10,7 +10,8 @@ Run 4 instances of databse
 stop all containers
 
 # Confirm accessible from pgAdmin4
-registser instances to pgAdmin4
+1. run pgAdmin4 through http://127.0.0.1/pgadmin4
+2. registser instances to pgAdmin4
 
 localhost:5432
 
@@ -24,6 +25,3 @@ Test with executing query: select version()
 
 # Application Access
 https://www.postgresqltutorial.com/postgresql-python/connect/
-
-
-
